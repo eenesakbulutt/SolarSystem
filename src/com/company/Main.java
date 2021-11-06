@@ -10,11 +10,11 @@ public class Main {
 
 
 featureSun mikesun=new featureSun();
-mikesun.color="blue";
-mikesun.heat="78788789";
-mikesun.temp="5C";
-mikesun.radius="0.0009";
-mikesun.maritalStatus="single";
+mikesun.color="RED";
+mikesun.heat="61KJ";
+mikesun.temp="333444444444K";
+mikesun.radius="900000000km";
+mikesun.maritalStatus="DOUBLE";
 
 
     }

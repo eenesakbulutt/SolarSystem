@@ -9,6 +9,21 @@ public class Main {
       andromeda.moon=4;
 
 
+featureSun mikesun=new featureSun();
+mikesun.color="RED";
+mikesun.heat="61KJ";
+mikesun.temp="333444444444K";
+mikesun.radius="900000000km";
+mikesun.maritalStatus="DOUBLE";
+
+//adding planet 1 features
+        planet1 astranout= new planet1();
+        astranout.color="grey";
+        astranout.relationshipStatus="single";
+        astranout.size="322";
+
+
+
 
 
 
